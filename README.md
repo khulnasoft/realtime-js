@@ -2,9 +2,7 @@
 <p align="center">
   <a href="https://khulnasoft.io">
         <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khulnasoft/khulnasoft/master/packages/common/assets/images/khulnasoft-logo-wordmark--dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khulnasoft/khulnasoft/master/packages/common/assets/images/khulnasoft-logo-wordmark--light.svg">
-      <img alt="Khulnasoft Logo" width="300" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft/master/packages/common/assets/images/logo-preview.jpg">
+      <img alt="Khulnasoft Logo" width="300" src="[https://raw.githubusercontent.com/khulnasoft/khulnasoft/master/packages/common/assets/images/logo-preview.jpg](https://avatars.githubusercontent.com/u/43526139?s=400&u=4355b45dd52b19a45a83f86b7f90ef5ad6ecc2cb&v=4)">
     </picture>
   </a>
 
